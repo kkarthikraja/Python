@@ -5,7 +5,7 @@ QR code Program
 """
 import qrcode 
 
-data = 'Don\'t forget to subscribe '
+data = 'Here is new QR code'
 
 qr = qrcode.QRCode(version = 1, box_size=10, border=5)
 
