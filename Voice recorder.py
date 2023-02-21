@@ -6,7 +6,7 @@ Voice recorder Program
 from googleapiclient.discovery import build
 import datetime
 
-API_KEY = "AIzaSyBFHh0wBPn6Tv9-JGaUezsD0lmcOVUMPro"
+API_KEY = "API key"
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_most_viewed(region_code, date):
