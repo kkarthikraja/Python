@@ -6,7 +6,7 @@ Read Weather info Program
 import requests 
 from pprint import pprint
 
-API_key = 'cb771e45ac79a4e8e2205c0ce66ff633'
+API_key = 'API Key'
 
 city = input("Enter a city: ")
 
