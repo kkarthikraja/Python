@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a discord-autotyper-python script file.
+This is a discord autotyper python script file.
 """
 
 
