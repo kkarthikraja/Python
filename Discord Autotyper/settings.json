@@ -1,0 +1,37 @@
+"""
+Created on Mon Mar 27 21:04:36 2023
+
+@author: kkarthikraja
+"""
+{
+	"hotkey": "Key.f5",
+	"exitkey": "Key.f6",
+	"commandDelay": 1,
+	"showKeyCode": true,
+	"randomSkip": 0.1,
+	"randomTime": 45,
+	"stopAfter": -1,
+	"commands": [
+		{
+			"text": "first command",
+			"waittime": 45,
+			"randomtime": true
+		},
+		{
+			"text": "second command",
+			"waittime": 30,
+			"randomtime": true
+		},
+		{
+			"text": "third command",
+			"waittime": 5,
+			"randomtime": true
+		}
+	],
+	"onetime": {
+		"hotkey": "Key.f8",
+		"delay": 3,
+		"commands": []
+	}
+}
+
